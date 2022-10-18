@@ -1,0 +1,93 @@
+*{
+    color: silver;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+
+#h1styles{
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+#list{
+    list-style-type: none;
+    text-decoration: none;
+}
+.pg{
+    background-color: antiquewhite;
+    font-size: 24px;
+    font-style: italic;
+    
+}
+body{
+    width: 50%;
+
+}
+div.sample{
+    background-color: purple;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    float: right;
+}
+div.a{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    float: left;
+}
+div.b{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    float: left;
+}
+.para{
+    border: 2px solid green;
+    margin-bottom: 20px;
+    height: 300px;
+    padding-left: 20px;
+}
+.img{
+    margin: 10px;
+    float: right;
+    margin-right: 7px;
+}
+ul{
+    background-color: grey;
+    width: 300px;
+    list-style-type: none;
+    padding: 0px;
+}
+li{
+    margin-bottom: 20px;
+}
+li a{
+    color: aqua;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+li a:hover{
+    background-color:orange ;
+    color: green;
+}
+.active{
+    background-color: silver;
+    color: blue;
+}
+.div.parent{
+    width: 70px;
+    float: left;
+}
+div.menu{
+    float: left;
+}
+div.links{
+    float: right;
+    border: 2px solid green;
+}
